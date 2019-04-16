@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-osx-battery",
+  "version": "1.0.0",
+  "description": "Cordova battery plugin for OSX platform",
+  "cordova": {
+    "id": "cordova-plugin-osx-battery",
+    "platforms": [
+      "osx"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jardenliu/cordova-plugin-osx-battery.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-osx"
+  ],
+  "author": "jardenliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jardenliu/cordova-plugin-osx-battery/issues"
+  },
+  "homepage": "https://github.com/jardenliu/cordova-plugin-osx-battery#readme"
+}
